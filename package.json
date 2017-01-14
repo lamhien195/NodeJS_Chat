@@ -1,0 +1,14 @@
+{
+  "name": "hoplongchat",
+  "version": "6.9.4",
+  "description": "Real time web chat fo Hop Long's staff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lamhien195",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
